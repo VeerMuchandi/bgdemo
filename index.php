@@ -90,7 +90,7 @@
         <div class="col-md-6 col-md-offset-3">
           <h2>Application Example</h2>
           <p>
-            <img src="greenrose.jpeg">
+            <img src="bluerose.jpeg">
           </p>
         </div>
       </div>
